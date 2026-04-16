@@ -13,16 +13,19 @@ AIventory is a full-stack inventory management system built using React, FastAPI
 * Backend: FastAPI
 * Database: PostgreSQL
 * ORM: SQLAlchemy
+* Data Validation: Pydantic
 
 ---
 
 ## ✨ Features
 
-* Add, update, delete products (CRUD operations)
-* Inventory tracking system
-* REST API integration
-* Scalable backend architecture
-* Future scope: AI-based analytics and prediction
+* Perform CRUD operations on products  
+* Real-time inventory tracking  
+* RESTful API integration  
+* Scalable backend architecture  
+* Data validation using Pydantic  
+* Clean and modular code structure  
+* Future scope: AI-based analytics and demand prediction  
 
 ---
 

@@ -56,5 +56,5 @@ npm start
 
 ## 👩‍💻 Author
 
-Vaishnavi Dhawale
-
+Vaishnavi Dhawale  
+GitHub: https://github.com/Vaishnavi-Dhawale
